@@ -1,0 +1,1 @@
+Moved to http://wiki.ros.org/ariac/Tutorials/SystemSetup
